@@ -8,5 +8,6 @@ public class HomeController {
 	
 	public static void teste() {
 		System.out.println("teste");
+		int x = 0;
 	}
 }
